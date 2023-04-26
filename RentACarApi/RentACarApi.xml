@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RentACarApi</name>
+    </assembly>
+    <members>
+        <member name="M:RentACarApi.Controllers.CarController.Search">
+            <summary>
+            Search Car
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RentACarApi.Controllers.CustomerController.Search">
+            <summary>
+            Search Customer
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
